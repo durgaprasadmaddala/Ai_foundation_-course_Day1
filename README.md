@@ -118,6 +118,45 @@ LLMs generate text by predicting tokens based on the context and patterns learne
 - Understand tokens, embeddings, and transformers.
 - Build a simple machine learning project.
 
+
+
+# Large Language Models (LLMs)
+
+## Overview
+A Large Language Model (LLM) is an AI model trained on large amounts of text to process and generate language.
+
+## Key Concepts
+- **Next-token prediction:** Predicting likely next tokens based on context.
+- **Tokens:** Units of text processed by a model.
+- **Parameters:** Numerical values learned during training.
+- **Transformers:** Neural network architecture used by many modern LLMs.
+- **Attention:** A mechanism for weighing relationships between tokens.
+- **Training:** Learning model parameters from data.
+- **Inference:** Generating outputs using a trained model.
+
+## How LLMs Work
+1. Receive a prompt.
+2. Convert text into tokens.
+3. Process the context through the model.
+4. Predict the next token.
+5. Generate tokens sequentially to create a response.
+
+## Applications
+- Question answering and tutoring
+- Text generation and summarization
+- Code generation and explanation
+- Translation and writing assistance
+- Conversational customer support
+
+## Limitations
+LLMs can produce inaccurate information, reflect biases, and generate incorrect code. Important outputs should be verified.
+
+## Learning Outcome
+I learned the fundamentals of LLMs, next-token prediction, parameters, Transformers, attention, training, inference, and real-world applications.
+
+**Topic:** Artificial Intelligence  
+**Focus:** Large Language Models  
+**Status:** Beginner learning notes completed
 # 🚀 Prompt Engineering – Learning Journey
 
 ## 📌 Overview
